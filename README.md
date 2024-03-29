@@ -14,7 +14,7 @@ Open to new opportunities, connections, and collaborations. Passionate about Dat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/pawan-malik-a26b51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-george" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/pawan-malik-a26b51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan Malik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
