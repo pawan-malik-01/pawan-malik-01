@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Malik</h1>
-<p> Bachelor's Student at Vishakarma Institute , Pune🎓 | Bachelor in Computer Engineering | Java 📦 | Python 🐍 | NodeJS 🚀 | React ⚛️ | JavaScript 💻 | HTML5 🌐 | Aspiring Innovator and Tech Enthusiast 🌟 
+<p> Bachelor's Student at Vishwakarma Institute , Pune🎓 | Bachelor in Computer Engineering | Java 📦 | Python 🐍 | NodeJS 🚀 | React ⚛️ | JavaScript 💻 | HTML5 🌐 | Aspiring Innovator and Tech Enthusiast 🌟 
   
 Open to new opportunities, connections, and collaborations. Passionate about Data Structure and Algorithm. Let's connect and explore the world of innovation together! 🌍💡</p>
 
